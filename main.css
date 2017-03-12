@@ -1,0 +1,14 @@
+td{
+    color: rgba(157, 0, 255, 0.76);
+}
+blockquote { 
+    color: blue ; }
+h1 { 
+    color: rgba(0, 0, 0, 0.92); }
+strong { 
+    color: #00f; color: #f00;}
+ p { color: navy } 
+blockquote {
+color: #fff ;
+background-color: gold;
+}
